@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Melad Kamari 👋👦</h1>
 
-<!--
-**MeladKamari/MeladKamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://twitter.com/MeladKamari" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+ <a href="https://www.linkedin.com/in/melad-kamari🐞👾-70a65b120" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ 
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+</p>
+
+
+
+</br>
+
+<p align="center">
+ <a href="#" alt="MeladKamari's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+
