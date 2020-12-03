@@ -8,7 +8,11 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
- 
+ I'm a Technical Team Lead who loves to build great team with a that makes a difference in the businesses that need them.
+
+I’ve been working in the Microsoft domain since starting with .NET over 6 years ago and I’m interested in Management , Agile Methodology , Microservices, DDD, TDD, BDD, Event Sourcing , Event Storming , Event Modeling , SOA .
+
+I work hard to apply my core knowledge of Agile, .NET combined with a keen interest in current and emerging technologies to make an effective solution. 
 </p>
 
 <p align="center"> 
