@@ -31,8 +31,8 @@ I work hard to apply my core knowledge of Agile, .NET combined with a keen inter
 </br>
 
 <p align="center">
- <a href="#" alt="MeladKamari's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&theme=tokyonight&show_icons=true" />
+ <a href="#" alt="MeladHamedani's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeladHamedani&theme=tokyonight&show_icons=true" />
  </a>
 </p>
 
