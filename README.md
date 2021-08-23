@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Melad Kamari 👋👦</h1>
+<h1 align="center">Hi there, I'm Melad Kamari 🧙‍♂️👾</h1>
 
 <p align="center">
 <a href="https://twitter.com/MeladKamari" target="_blank">
