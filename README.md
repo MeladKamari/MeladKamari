@@ -12,7 +12,7 @@
  </a>
 
 
-I’ve been working in the Microsoft domain since starting with .NET over 7 years ago and I’m interested in Management , Agile Methodology , Microservices, DDD, TDD, BDD, Event Sourcing , Event Storming , Event Modeling , SOA .
+I’ve been working in the Microsoft domain since starting with .NET over 7 years ago and I’m interested in Management , Agile Methodology , Microservices, DDD, TDD, BDD, Event Sourcing , Event Storming and Event Modeling.
 
 I work hard to apply my core knowledge of Agile, .NET combined with a keen interest in current and emerging technologies to make an effective solution. 
 </p>
@@ -22,7 +22,7 @@ I work hard to apply my core knowledge of Agile, .NET combined with a keen inter
 </br>
 
 <p align="center">
- <a href="#" alt="MeladHamedani's github stats">
+ <a href="#" alt="MeladKamaris's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&bg_color=4F27D5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
  </a>
 </p>
