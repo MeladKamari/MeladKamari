@@ -22,7 +22,7 @@ I work hard to apply my core knowledge of Agile, .NET combined with a keen inter
 </br>
 
 <p align="center">
- <a href="#" alt="MeladKamaris's github stats">
+ <a href="#" alt="MeladKamari's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&bg_color=4F27D5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
  </a>
 </p>
