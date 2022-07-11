@@ -30,11 +30,12 @@
 </br>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meladkamari&theme=tokyonight&hide_border=true">
  <a href="#" alt="Melad's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&bg_color=4F27D5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeladKamari&theme=tokyonight&hide_border=true" />
  </a>
    <a href="https://github.com/unchase">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MeladKamari&&bg_color=4F27D5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide=css,html">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MeladKamari&theme=tokyonight&hide_border=true&hide=css,html">
   </a>
 </p>
 
