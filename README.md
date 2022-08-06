@@ -15,10 +15,33 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/9213496/100453313-fd3e1580-30cf-11eb-9880-3b6b268d663c.png" alt="alt text" width="48" height="48">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  
+   <img src="https://github.com/cncf/artwork/blob/master/projects/grpc/stacked/white/grpc-stacked-white.png" alt="kubernetes" width="70" height="43" />
+   <img src="https://github.com/cncf/artwork/blob/master/projects/fluentd/stacked/color/fluentd-stacked-color.png" alt="kubernetes" width="50" height="70" />
+   
+   
+   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/stacked/color/argo-stacked-color.png" alt="kubernetes" width="50" height="70" />
+  
+   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/rook/stacked/color/rook-stacked-color.png" alt="kubernetes" width="50" height="70" />
+  
+   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/stacked/color/jaeger-stacked-color.png" alt="kubernetes" width="50" height="70" />
 
   
   
+  
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/stacked/color/prometheus-stacked-color.png" alt="kubernetes" width="43" height="43" />
+  
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/envoy/stacked/color/envoy-stacked-color.png" alt="kubernetes" width="43" height="43" />
+
+ <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" alt="kubernetes" width="48" height="48" />
+
+
+
+
+   
+  
+  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/9213496/100453281-f8796180-30cf-11eb-8713-5d46659acf9a.png" alt="alt text" width="48" height="48">
